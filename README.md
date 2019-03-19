@@ -33,3 +33,7 @@ We recommend you heading over to [http://gobuffalo.io](http://gobuffalo.io) and 
 Good luck!
 
 [Powered by Buffalo](http://gobuffalo.io)
+
+# sysproj
+Project Manangement System
+>>>>>>> 05a04ef473360011c0ee7a991e6d7a12ea2caf03
